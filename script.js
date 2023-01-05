@@ -1,2 +1,3 @@
-alert('Hello, Parcel!!!');
-alert('All work wonderfull!!!');
+import {alerts} from './alert';
+
+alerts();
